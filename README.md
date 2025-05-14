@@ -1,2 +1,2 @@
 # practice-game
-Sect leader - sir mahesh per
+Sect leader - sir mahesh pyr
